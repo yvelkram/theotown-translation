@@ -404,19 +404,19 @@
     <string name="draft_radio00_news_title">뉴스 104.0</string>
     <string name="draft_radio00_news_text">도시에 대한 새로운 이야기를 전합니다. 지식을 늘려줍니다.
 \n
-\n동시간대에는 하나의 프로그램만 송출될 수 있습니다. 이전 프로그램은 폐지됩니다.</string>
+\n동시간대에는 프로그램이 하나만 송출될 수 있습니다. 이전 프로그램은 폐지됩니다.</string>
     <string name="draft_radio00_sport_title">스포츠 FM</string>
     <string name="draft_radio00_sport_text">스포츠 소식과 흥미진진한 경기 생중계를 송출합니다. 넓은 범위에 스포츠 효과를 제공합니다.
 \n
-\n한번에 하나의 프로그램만 송출될 수 있습니다. 이전 프로그램은 폐지됩니다.</string>
+\n한번에 프로그램이 하나만 송출될 수 있습니다. 이전 프로그램은 폐지됩니다.</string>
     <string name="draft_radio00_fun_title">꿀잼 라디오</string>
     <string name="draft_radio00_fun_text">음악과 예능프로를 주로 송출합니다. 청취자들이 좋아할 것입니다. 넓은 범위에 공원 효과를 제공합니다.
 \n
-\n한번에 하나의 프로그램만 송출될 수 있습니다. 이전 프로그램은 폐지됩니다.</string>
+\n한번에 프로그램이 하나만 송출될 수 있습니다. 이전 프로그램은 폐지됩니다.</string>
     <string name="draft_radio00_faith_title">신앙 토크</string>
     <string name="draft_radio00_faith_text">만물과 우리의 존재에 대한 설교를 송출합니다. 넓은 범위에 종교 효과를 제공합니다.
 \n
-\n한번에 하나의 프로그램만 송출될 수 있습니다. 이전 프로그램은 폐지됩니다.</string>
+\n한번에 프로그램이 하나만 송출될 수 있습니다. 이전 프로그램은 폐지됩니다.</string>
     <string name="draft_lighthouse00_title">등대</string>
     <string name="draft_lighthouse00_text">배는 저 멀리 어디에도 없습니다. 그러나 여기엔 등대가 있고요... 이상하죠.</string>
     <string name="draft_road02_title">2차선 고속도로</string>
@@ -455,7 +455,7 @@
     <string name="tutorial_industrial_keepaway">소음과 오염때문에 언제나 공업구역은 다른 구역과 멀리 떨어뜨려야 합니다.</string>
     <string name="tutorial_rci">여기를 누르면 여러 구역들에 대해서 자세한 수요정보를 확인할 수 있습니다.</string>
     <string name="tutorial_speed_fast">시물레이션 속도를 변경해 대기 시간을 줄일 수도 있습니다.</string>
-    <string name="tutorial_speed_normal">이제 다시 원래의 속도로 맞추세요.</string>
+    <string name="tutorial_speed_normal">이제 다시 원래 속도로 맞추세요.</string>
     <string name="tutorial_money_task">당신의 임무는 이 도시를 세금으로 얻은 돈으로서 발전시켜 나가는 것입니다.</string>
     <string name="tutorial_money_info">우측 하단의 버튼을 눌러서 재정과 세율에 대한 자세한 정보를 확인할 수 있습니다.</string>
     <string name="tutorial_congrats">축하합니다! Theotown의 기본을 모두 배웠습니다. 이젠 당신만의 도시를 시작할 수 있습니다. :)</string>
@@ -690,7 +690,7 @@
     <string name="disaster_riot_text">경찰 특공대로만 진압이 가능한 폭동을 개시합니다.</string>
     <string name="disaster_riot_cmdtext">폭동이다!</string>
     <string name="draft_beach00_title">해변</string>
-    <string name="draft_beach00_text">해변에서의 멋진 하루를 보냅니다.</string>
+    <string name="draft_beach00_text">해변에서 멋진 하루를 보냅니다.</string>
     <string name="draft_biergarten00_title">비어 가든</string>
     <string name="draft_biergarten00_text">공용 테이블에 맥주와 안주를 제공하는 독일의 야외 공간 입니다. 쉬기 좋은 곳입니다.</string>
     <string name="notify_noreszone">사람들이 이 마을에서 살고 싶어 합니다. 주거 구역을 지정해 주세요.</string>
@@ -755,7 +755,7 @@
     <string name="tutorial_buildbridge_b">계획된 도로의 시점과 종점을 터치하세요. 강 위에 자동으로 다리가 건설되는 것을 볼 수 있습니다.</string>
     <string name="tutorial_buildbridge_c">그리하여, 건설이 끝났습니다!</string>
     <string name="draft_beachnearwater00_title">해변</string>
-    <string name="draft_beachnearwater00_text">해변에서의 환상적인 날을 보내세요.</string>
+    <string name="draft_beachnearwater00_text">해변에서 환상적인 날을 보내세요.</string>
     <string name="loadcity_version_premium">버전 %1$,d (프리미엄)</string>
     <string name="loadcity_preview">예제 도시</string>
     <string name="settings_autorestoresamples">예제 도시 복구</string>
@@ -880,7 +880,7 @@
     <string name="draft_school03_title">대형 고등학교</string>
     <string name="draft_school03_text">많은 학생들을 위한 대형 고등학교입니다.</string>
         <string name="gamemode_easy_desc">많은 자본을 가지고 시작할 수 있고 전체적으로 조금 쉬운 게임모드 입니다.</string>
-    <string name="gamemode_middle_desc">일반 게임모드. 적당량의 자본을 가지고 시작하며, 여러분만의 꿈의 도시를 건설 하는것이 그렇게 어렵지는 않을 겁니다.</string>
+    <string name="gamemode_middle_desc">일반 게임모드. 자본을 적당량 가지고 시작하며, 여러분만의 꿈의 도시를 건설 하는것이 그렇게 어렵지는 않을 겁니다.</string>
     <string name="gamemode_hard_desc">TheoTown의 전문가 이신가요? 그러면 이 모드는 당신을 위한 모드입니다! 적은 양의 자본으로 시작하며, 전체적으로 어렵습니다.</string>
     <string name="dialog_ffwd_title">빨리감기</string>
     <string name="dialog_ffwd_text">%1$,d일 동안의 빠른 게임모드.</string>
@@ -920,7 +920,7 @@
     <string name="draft_devroad00_title">국도</string>
     <string name="draft_devroad00_text">국가에서 투자하고 건설한 포장도로.</string>
     <string name="dialog_resetcity_title">도시 초기화</string>
-    <string name="dialog_resetcity_text">원래의 상태로 이 도시를 초기화 하고 싶으신가요? 취소할 수 없습니다.</string>
+    <string name="dialog_resetcity_text">원래 상태로 이 도시를 초기화 하고 싶으신가요? 취소할 수 없습니다.</string>
     <string name="dialog_resetcity_cmdreset">초기화</string>
     <string name="draft_devroad01_title">일방 통행 국도</string>
     <string name="draft_devroad01_text">국가에서 투자하고 건설한 일방 통행 포장도로.</string>
@@ -1288,7 +1288,7 @@
     <string name="dialog_redeemcode_text">보상을 얻기 위해 보상 코드를 입력 하세요:</string>
     <string name="dialog_redeemcode_cmdredeem">코드입력</string>
     <string name="dialog_redeemsuccess_title">성공</string>
-    <string name="dialog_redeemsuccess_text">축하드립니다, %1$s개의 다이아몬드를 얻었습니다 :)</string>
+    <string name="dialog_redeemsuccess_text">축하드립니다, 다이아몬드 %1$s개를 얻었습니다 :)</string>
     <string name="dialog_redeemfailure_title">실패</string>
     <string name="dialog_redeemfialire_text">입력한 보상 코드는 유효하지 않습니다. 입력 오류인지 확인하세요.</string>
     <string name="shop_redeemcode">보상 코드</string>
@@ -1580,7 +1580,7 @@
     <string name="tool_removeuwire_text">이 도구는 지중화된 전선을 철거합니다.</string>
 
     <string name="draft_aircraft_boneyard00_title">비행기 묘지</string>
-    <string name="draft_aircraft_boneyard00_text">은퇴한 비행기들을 위한 장소입니다. 더러운 장소이지만 약간의 수입을 얻습니다.</string>
+    <string name="draft_aircraft_boneyard00_text">은퇴한 비행기들을 위한 장소입니다. 더러운 장소이지만 수입을 약간 얻습니다.</string>
     <string name="notify_tutorial_reminder_title">시작하기</string>
     <string name="notify_tutorial_reminder_text">잠시만요 시장님, 대도시를 만들기 위한 시장님의 임무를 잊어버리신 건가요?</string>
     <string name="dialog_insufficientspace_title">공간이 부족합니다.</string>
@@ -1615,7 +1615,7 @@
     <string name="draft_cat_commercial00_title">상업 건물</string>
     <string name="draft_cat_industrial00_title">공업 건물</string>
     <string name="offerstage_saving">%d%% 절약</string>
-    <string name="draft_pickle00_title">전능한 피클</string>
+    <string name="draft_pickle00_title">전능한 오이</string>
     <string name="draft_pickle00_text">.</string>
 
     <string name="settings_newtoolbar">툴바 사용</string>
@@ -1648,7 +1648,7 @@
 
     <string name="draft_recyclingyard00_title">바자회</string>
     <string name="draft_recyclingyard00_text">어째서 바자회에서 재활용될 수도 있는 것을 태우거나 매립하나요??</string>
-    <string name="draft_notify_pickle_spawned00_text">%s에서 야생의 피클이 나타났습니다. 어떻게 하실 건가요, 시장님?</string>
+    <string name="draft_notify_pickle_spawned00_text">%s에서 야생의 오이가 나타났습니다. 어떻게 하실 건가요, 시장님?</string>
     <string name="draft_rugbyfield00_title">미식축구장</string>
     <string name="draft_rugbyfield00_text">미식축구팬들을 위한 경기장.</string>
     <string name="menu_facebook">페이스북 연결</string>
@@ -1710,7 +1710,7 @@
     <string name="draft_ancientbear_guard00_title">경비병</string>
     <string name="draft_ancientbear_guard00_text">고대 곰을 보호하는 경비병.</string>
     <string name="draft_ancientbear_statue00_title">고대 곰</string>
-    <string name="draft_ancientbear_statue00_text">고대의 곰의 조각상.</string>
+    <string name="draft_ancientbear_statue00_text">고대 곰의 조각상.</string>
     <string name="draft_greatpyramid00_title">기자의 대 피라미드</string>
 
     <string name="draft_wasteincinerator00_filter00_title">필터</string>
@@ -1771,7 +1771,7 @@
     <string name="dialog_search_cmdcancel">취소</string>
     <string name="search_results_title">\"%s\" 에 대한 검색 결과</string>
     <string name="draft_rail01_title">도시 철도</string>
-    <string name="draft_rail01_text">도심지에서의 빠르게 다닐 수 있는 고가 철도.</string>
+    <string name="draft_rail01_text">도심지에서 빠르게 다닐 수 있는 고가 철도.</string>
     <string name="draft_nativerailwaystation01_title">도시철도 역</string>
     <string name="draft_nativerailwaystation01_text">작은 공간에 배치할 수 있는 소형 도시철도 역입니다.</string>
     <string name="settings_realmmres">미니맵 실제 해상도</string>
@@ -1784,7 +1784,7 @@
     <string name="draft_chrysler00_title">크라이슬러 빌딩</string>
     <string name="draft_chrysler00_text">전에 이 건물을 본적이 있을 겁니다. 뉴옥에 위치한 크라이슬러 빌딩(Chrysler Building)은 상징적인 외관으로 유명합니다. 1930년에 319m로 완공되었으며, 세계에서 가장 높은 벽돌건물 입니다.</string>
     <string name="draft_greatpyramid00_text">기자의 피라미드 군(أهرامات الجيزة)은 고대 세계의 가장 오래된 7대 불가사의이고, 전세계에 잘 알려져 있습니다. 대피라미드는 3개의 피라미드 중에서 가장 거대하며, 기원전 26세기 경에 146m로 건설되었습니다.</string>
-    <string name="draft_feature_landmarks04_text">멋있는 몇몇의 건물을 권해드립니다.</string>
+    <string name="draft_feature_landmarks04_text">멋있는 건물을 몇 권해드립니다.</string>
 
     <string name="draft_roaddeco_barrier_open00_title">차단기</string>
     <string name="draft_roaddeco_barrier_open00_text">눌러서 폐쇄하세요. 교통체증을 만드는 훌륭한 방법입니다.</string>
