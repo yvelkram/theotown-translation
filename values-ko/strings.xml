@@ -1739,7 +1739,7 @@
     <string name="draft_feature_doubledincome00_text">당신의 수익이 두배가 됩니다!</string>
     <string name="features_duration">지속기간 %s</string>
     <string name="draft_roaddeco_crosswalk00_title">횡단보도</string>
-    <string name="draft_roaddeco_crosswalk00_text">그냥 도로를 건너려 하는것은 위험합니다.</string>
+    <string name="draft_roaddeco_crosswalk00_text">그냥 도로를 건너려 하는 것은 위험합니다.</string>
     <string name="draft_roaddeco_bumps00_title">과속방지턱</string>
     <string name="draft_roaddeco_bumps00_text">과속방지턱으로 차량의 속도를 줄입니다.</string>
     <string name="draft_fence00_title">울타리</string>
@@ -1750,7 +1750,7 @@
     <string name="draft_jungletree00_text">정글 속에서, 드넓은 정글 속에서, 사자는 오늘밤 잠을 잔다네.</string>
 
     <string name="draft_igloo00_title">이글루</string>
-    <string name="draft_igloo00_text">놀랍게도, 이글루 안은 그만큼 춥지 않습니다.</string>
+    <string name="draft_igloo00_text">놀랍게도, 이글루 안은 그렇게 춥지 않습니다.</string>
     <string name="features_more">더 많은 기능</string>
     <string name="features_diamonds">다이아몬드 얻기</string>
 
@@ -1769,16 +1769,16 @@
     <string name="dialog_search_text">아래 검색 키워드를 입력하세요.</string>
     <string name="dialog_search_cmdok">검색</string>
     <string name="dialog_search_cmdcancel">취소</string>
-    <string name="search_results_title">"%s\" 에 대한 검색 결과</string>
+    <string name="search_results_title">\"%s\" 에 대한 검색 결과</string>
     <string name="draft_rail01_title">도시 철도</string>
-    <string name="draft_rail01_text">도심지에서의 빠른 속력을 위한 고가 철도.</string>
+    <string name="draft_rail01_text">도심지에서의 빠르게 다닐 수 있는 고가 철도.</string>
     <string name="draft_nativerailwaystation01_title">도시철도 역</string>
-    <string name="draft_nativerailwaystation01_text">작은 공간에 배치하기 위한 밀집된 도시철도 역입니다..</string>
+    <string name="draft_nativerailwaystation01_text">작은 공간에 배치할 수 있는 소형 도시철도 역입니다.</string>
     <string name="settings_realmmres">미니맵 실제 해상도</string>
     <string name="feature_coming_soon_fulfilled">이른 선물</string>
 
     <string name="draft_tree_sakura00_title">벚꽃</string>
-    <string name="draft_tree_sakura00_text">이름은 벚나무 이지만, 친구는 아니랍니다.</string>
+    <string name="draft_tree_sakura00_text">이름은 벚나무지만, 친구는 아니랍니다.</string>
     <string name="draft_circus00_title">서커스</string>
     <string name="draft_circus00_text">서커스에 갈 시간입니다!</string>
     <string name="draft_chrysler00_title">크라이슬러 빌딩</string>
@@ -1799,7 +1799,7 @@
     <string name="draft_church10_title">바로크 성당</string>
     <string name="draft_church10_text">도시를 위한 아름다운 성당.</string>
     <string name="draft_roaddeco_construction00_title">굴착기</string>
-    <string name="draft_roaddeco_construction00_text">도로 한가운데의 굴착기는 그다지 좋은 아이디어 같지는 않네요. 그렇지 않은가요?</string>
+    <string name="draft_roaddeco_construction00_text">도로 한가운데에 굴착기를 두는 것은 그다지 좋은 아이디어 같지는 않네요. 그렇지 않은가요?</string>
 
     <string name="infoline_freetunnels">터널 %d 칸 남음</string>
     <string name="buildinginfo_idletime">유휴 시간 : %s (당신이 만약 도시에 없었다면)</string>
@@ -1809,13 +1809,13 @@
     <string name="draft_roaddeco_construction01_title">자갈 언덕</string>
     <string name="draft_roaddeco_construction01_text">좋은 도로 공사의 일부분.</string>
     <string name="notification00_sandbox_title">속보: %1$s, 이곳은 멋진 도시입니다!</string>
-    <string name="notification00_sandbox_text">시장님, 시장님 자신을 자랑스러워 할 수 있습니다!</string>
-    <string name="notification01_title">속보: %1$s에서 외로움을 느낍니다!</string>
+    <string name="notification00_sandbox_text">시장님, 시장님 자신을 자랑스러워해도 됩니다!</string>
+    <string name="notification01_title">속보: %1$s이(가) 외로워합니다!</string>
     <string name="notification01_text">시장님, 제발 돌아오세요!</string>
 
     <string name="shop_adreward">무료 다이아몬드</string>
     <string name="draft_smallmetrostation00_title">지하철 출구</string>
-    <string name="draft_smallmetrostation00_text">지하철을 이용하기 위한 출입구. 지하철 객차를 위해서 지하철 역을 건설해야만 합니다.</string>
+    <string name="draft_smallmetrostation00_text">지하철을 이용하기 위한 출입구. 지하철을 쓰려면 지하철 역을 건설해야 합니다.</string>
     <string name="draft_roaddeco_trafficisland00_title">교통섬</string>
     <string name="draft_roaddeco_trafficisland00_text">사람들이 도로를 안전하게 건널 수 있게 해줍니다.</string>
     <string name="draft_roaddeco_buildingsite00_title">건설 현장</string>
@@ -1824,12 +1824,12 @@
     <string name="draft_roaddeco_trafficlights00_text">교통섬이나 횡단보도보다 안전합니다.</string>
 
     <string name="tool_removemetrotunnel_title">지하철 터널 철거</string>
-    <string name="tool_removemetrotunnel_text">지하철 터널을 철거해 봅시다..</string>
+    <string name="tool_removemetrotunnel_text">지하철 터널을 철거해 봅시다.</string>
 
     <string name="draft_windmill00_title">오래된 풍차</string>
     <string name="draft_windmill00_text">도시 변두리를 위한 오래된 독일식 풍차.</string>
     <string name="draft_taxi_depot00_title">택시 승강장</string>
-    <string name="draft_taxi_depot00_text">대중교통의 간단한 형태.</string>
+    <string name="draft_taxi_depot00_text">간단한 대중교통.</string>
     <string name="settings_showclosebutton">게임 메뉴내에 닫기 버튼 보이기</string>
     <string name="menu_closegame">게임 나가기</string>
     <string name="disaster_pickle_title">오이</string>
@@ -1839,29 +1839,29 @@
     <string name="draft_disaster_picklehuge00_title">전능한 오이</string>
     <string name="draft_disaster_picklehuge00_text">모든 오이의 거대 돌연변이 신.</string>
     <string name="draft_disaster_picklehuge01_title">격퇴된 오이</string>
-    <string name="draft_disaster_picklehuge01_text">약깐 너무 크게 자라난 채소. 그것은 아마도 도로를 사용하는 문명화된 오이를 생성할 수도 있습니다..</string>
+    <string name="draft_disaster_picklehuge01_text">약간 너무 크게 자라난 채소. 도로를 사용하는 문명화된 오이를 생성할 수도 있습니다..</string>
 
     <string name="draft_discord_statue00_title">디스코드 조각상</string>
     <string name="draft_discord_statue00_text">디스코드 조각상.</string>
     <string name="notify_discord_statue00_title">감사합니다!</string>
-    <string name="notify_discord_statue00_text">저희 디스코드 서버의 3000분께 감사드립니다. 지금 바로 방문하고 싶으신가요?</string>
+    <string name="notify_discord_statue00_text">저희 디스코드 서버의 4,000분께 감사드립니다. 지금 바로 방문하고 싶으신가요?</string>
     <string name="draftselector_titlebodydisposal">장례</string>
     <string name="draft_roaddeco_protester00_title">가짜 시위대</string>
     <string name="draft_roaddeco_protester00_text">시위대를 따라하기 위해 몇몇 사람을 고용하세요.</string>
     <string name="draft_roaddeco_riot00_title">가짜 폭동</string>
-    <string name="draft_roaddeco_riot00_text">폭동을 따라하기 위해 몇몇 사람을 고용하세요.</string>
+    <string name="draft_roaddeco_riot00_text">사람들을 고용해서 폭동이 일어난 척 해보세요.</string>
 
     <string name="draft_roaddeco_roundabout00_title">소형 회전교차로</string>
     <string name="draft_roaddeco_roundabout00_text">작은 회전교차로입니다. 교차로에 설치하세요.</string>
     <string name="disaster_blizzard_title">눈폭풍</string>
-    <string name="disaster_blizzard_text">마음 단단히 먹으십시오, 겨울이 다가옵니다.</string>
+    <string name="disaster_blizzard_text">마음 단단히 먹으십시오. 겨울이 다가옵니다.</string>
     <string name="disaster_blizzard_cmdtext">얼어라!</string>
-    <string name="draft_snowtile00_title">영원한 눈</string>
-    <string name="draft_snowtile00_text">지구 온난화는 어떤가요?</string>
+    <string name="draft_snowtile00_title">만년설</string>
+    <string name="draft_snowtile00_text">지구 온난화는 어쩌고요?</string>
     <string name="gamemode_free_title">자유</string>
     <string name="gamemode_free_text">돈을 다루기 싫으신가요? 이 게임모드 에서는 돈이 없을 뿐만 아니라 인구 요구조건도 없습니다.</string>
     <string name="dialog_free_title">자유 모드</string>
-    <string name="dialog_free_text">자유모드를 선택하셨습니다..\n
+    <string name="dialog_free_text">자유모드를 선택하셨습니다.\n
 장점: 돈 없음, 해금조건 없음, 수요 조절 옵션\n
 단점: 도전 적음</string>
     <string name="draft_medic03_title">현대식 병원</string>
@@ -1885,36 +1885,36 @@
     <string name="notify_bodydisposal_needer00">시장님께, 고인을 모시기 위해 공동묘지를 지을 것을 촉구합니다.</string>
     <string name="notify_bodydisposal_producer00">이 공동묘지에 자리가 없습니다. 정리하거나 새로운 화장장 혹은 공동묘지를 건설하세요.</string>
     <string name="draft_halloween_pumpkin00_title">호박</string>
-    <string name="draft_halloween_pumpkin00_text">할로윈이 다가옵니다! 모두들 호박을 좋아합니다, 그렇죠?</string>
+    <string name="draft_halloween_pumpkin00_text">할로윈이 다가옵니다! 모두들 호박을 좋아합니다. 그렇죠?</string>
     <string name="draft_halloween_tree00_title">죽은 나무</string>
     <string name="draft_halloween_tree00_text">귀신 이야기에서 일반적으로 사용되는 으스스한 죽은 나무</string>
     <string name="draft_feature_landmarks04_title">랜드마크 4번 팩</string>
     <string name="draft_feature_landmarks05_title">랜드마크 5번 팩</string>
     <string name="draft_marker_hackedmarkermarker_title">이 버전은 해킹되었습니다!</string>
 
-    <string name="settings_dedicatedplugintexture">더많은 플러그인 공간 (재시작해야 합니다. 불안정 할 수 있습니다.)</string>
-    <string name="draft_haunted_house00_title">귀신의집</string>
-    <string name="draft_haunted_house00_text">보기에 위험해 보이는 오래된 저택입니다. 그것이 여기 살지도 모릅니다.</string>
+    <string name="settings_dedicatedplugintexture">더 많은 플러그인 공간 (재시작해야 합니다. 불안정 할 수 있습니다.)</string>
+    <string name="draft_haunted_house00_title">귀신의 집</string>
+    <string name="draft_haunted_house00_text">보기에 위험해 보이는 오래된 저택입니다. '그것'이 여기 살지도 모릅니다.</string>
     <string name="notify_illness">전염병 유행이 일어났습니다, 즉시 행동을 취해야 합니다. 의사를 보내세요!</string>
     <string name="notify_illnessnomedic">전염병 유행이 일어났고 우린 의사가 없습니다. 지금 당장 데려오세요!</string>
 
     <string name="shader_lol">ㅋㅋㅋ</string>
-    <string name="settings_hugeplugintexture">축하드립니다, 대용량 텍스쳐 모드로 실행중입니다.</string>
+    <string name="settings_hugeplugintexture">축하드립니다. 대용량 텍스쳐 모드로 실행중입니다.</string>
     <string name="draft_tree00_autumn00_title">가을 나무</string>
     <string name="draft_tree00_autumn00_text">시드는 나뭇잎도 아름다워질 수 있습니다..</string>
     <string name="settings_handintoolbar">툴바에서 손 보이기</string>
     <string name="draft_bushman00_title">부시맨 동상</string>
-    <string name="draft_bushman00_text">\"음, 그게 뭔가요?\"\n\"처다보지마세요. 그렇지 않으면 꿈속에서 당신을 괴롭힐 겁니다.\"</string>
+    <string name="draft_bushman00_text">\"음, 그게 뭔가요?\"\n\"처다보지 마세요. 그렇지 않으면 꿈속에서 당신을 괴롭힐 겁니다.\"</string>
     <string name="draft_police03_title">현대식 경찰서</string>
-    <string name="draft_police03_text">시 재정만 투자한다면 어떤 범죄 사건도 해결할 수 있게 될 것입니다.</string>
+    <string name="draft_police03_text">시 재정만 투자한다면 어떤 범죄 사건도 해결할 수 있을 것입니다.</string>
     <string name="draft_sf_cityhall00_title">시청</string>
-    <string name="draft_sf_cityhall00_text">샌프란시스코시청에서 영감받아 만든 시청.</string>
+    <string name="draft_sf_cityhall00_text">샌프란시스코 시청에서 영감받아 만든 시청.</string>
     <string name="draft_sf_fineartspalace00_title">미술의 궁전</string>
     <string name="draft_sf_fineartspalace00_text">미술의 궁전(The Palace of Fine Arts)은 캘리포니아 샌프란시스코에 위치하는, 1915년 파나마-태평양 박람회 당시 사용된 전시관 중 하나입니다.</string>
     <string name="shader_invert">색 반전으로 보기</string>
 
     <string name="draft_present_notification00_text">산타의 선물이 폭발했습니다.</string>
-    <string name="draft_present_notification01_text">산타의 선물이 몇개의 다이아몬드를 주었습니다.</string>
+    <string name="draft_present_notification01_text">산타의 선물이 다이아몬드를 몇 개 주었습니다.</string>
     <string name="store_authorby">%s 제작</string>
     <string name="store_downloads">%,d 번 다운로드됨</string>
     <string name="store_acquire">다운로드</string>
@@ -2032,8 +2032,7 @@
     <string name="draft_trainstation_prebuilt10_title">화물역</string>
     <string name="draft_trainstation_prebuilt10_text">산업 자원을 위한 기차역.</string>
     <string name="draft_trainstation_prebuilt11_title">중앙화물역</string>
-    <string name="draft_trainstation_prebuilt11_text">더많은 산업 자원을 위한 큰 기차역.</string>
-
+    <string name="draft_trainstation_prebuilt11_text">더 많은 산업 자원을 위한 큰 기차역.</string>
     <string name="channel_city_title">도시 뉴스</string>
     <string name="channel_city_text">이 도시에 대한 일반적인 정보.</string>
     <string name="settings_fullscreen">전체화면</string>
@@ -2058,7 +2057,7 @@
     <string name="draft_tollbooth00_text">톨게이트로 돈을 벌 수 있을 테지만, 사람들이 좋아하질 않을 겁니다.</string>
     <string name="notification02_title">조치가 필요함</string>
     <string name="notification02_text">누군가 %1$s의 개발을 관리해야 합니다!</string>
-    <string name="notification03_title">%1$s 이것을 까먹지 마세요</string>
+    <string name="notification03_title">%1$s을(를) 까먹지 마세요</string>
     <string name="notification03_text">시장님 제발요, 돌아오세요!</string>
     <string name="settings_fontscaling">글자 크기</string>
     <string name="settings_fontscaling_small">작음</string>
@@ -2066,23 +2065,23 @@
     <string name="settings_fontscaling_big">큼</string>
     <string name="pluginerror_disable">해제</string>
 
-    <string name="music_next">다음 브금</string>
+    <string name="music_next">다음 음악</string>
     <string name="createcity_generating">도시 생성</string>
     <string name="dialog_notenoughmoneyp_title">부족한 재정</string>
-    <string name="dialog_notenoughmoneyp_text">이것을 바로 하기위한 돈이 충분치 않습니다 :(</string>
+    <string name="dialog_notenoughmoneyp_text">지금은 이것을 하기 위한 돈이 충분치 않습니다 :(</string>
     <string name="game_region">지역 %1$d/%2$d</string>
     <string name="gamemode_sandbox_title">샌드박스</string>
-    <string name="gamemode_sandbox_text">돈이 필요없는 실험을 원하면 이 모드를 사용하세요. 시민들의 요구는 충족 시켜주어야 합니다.</string>
+    <string name="gamemode_sandbox_text">돈이 필요 없는 실험을 원하면 이 모드를 사용하세요. 시민들의 요구는 충족 시켜주어야 합니다.</string>
     <string name="dialog_ubermode_title">우버 모드</string>
     <string name="dialog_ubermode_text">도시의 모든 귀찮은 것들을 제거하려면 이 특수 모드를 활성화하세요:\n-화재 없음\n-쓰레기 없음\n-질병 없음\n-범죄 없음\n-사망 없음\n-최대지 교육\n-인기도 100%</string>
-    <string name="topic_pluginsawesome">플러그인은 멋있습니다! 그러나, 않쓰는 플러그인은 해제하길 바랍니다.</string>
+    <string name="topic_pluginsawesome">플러그인은 멋있습니다! 그러나, 쓰지 않는 플러그인은 해제하길 바랍니다.</string>
     <string name="topic_platforms">데오타운을 PC, 안드로이드, iOS에서도 할 수 있다는걸 아시나요?</string>
-    <string name="topic_pluginspace">플러그인 용량은 제한되어 있습니다, 염두해두세요</string>
-    <string name="topic_rotate">도시가 회전이 가능하다는 것을 알고 계시나요?</string>
+    <string name="topic_pluginspace">플러그인 용량은 제한되어 있습니다. 염두해두세요</string>
+    <string name="topic_rotate">도시를 회전할 수 있다는 것을 알고 계시나요?</string>
     <string name="topic_pineapple">민트초코?</string>
     <string name="topic_f11">F11 로 전체화면</string>
     <string name="draft_permanent_snow00_title">눈</string>
-    <string name="draft_permanent_snow00_text">이 장소는 언재나 겨울입니다.</string>
+    <string name="draft_permanent_snow00_text">이 장소는 언제나 겨울입니다.</string>
     <string name="settings_hidelabels">라벨 숨기기</string>
     <string name="settings_sound_ambient">주변 환경</string>
     <string name="settings_vsync">수직동기화</string>
